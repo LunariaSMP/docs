@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "aspen",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#9271C5",
+    "light": "#9271C5",
+    "dark": "#9271C5"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/PINK_Logo.png",
   "navigation": {
     "global": {
       "anchors": [
@@ -58,17 +58,9 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/PINK_Logo.png",
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -89,9 +81,23 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.lunariasmp.de/",
+      "youtube": "https://youtube.lunariasmp.de/",
+      "website": "https://lunariasmp.de/"
     }
+  },
+  "background": {
+    "decoration": "gradient"
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "thumbnails": {
+    "appearance": "dark",
+    "background": "/PINK_Logo.png"
+  },
+  "styling": {
+    "codeblocks": "dark",
+    "latex": true
   }
 }
