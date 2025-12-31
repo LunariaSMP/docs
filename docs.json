@@ -15,17 +15,10 @@
         "groups": [
           {
             "group": "Regelwerke",
-            "icon": "folders",
+            "icon": "hammer",
             "pages": [
               "index",
               "quickstart"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
             ]
           }
         ]
