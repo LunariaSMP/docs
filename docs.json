@@ -9,15 +9,6 @@
   },
   "favicon": "/PINK_Logo.png",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
-        }
-      ]
-    },
     "tabs": [
       {
         "tab": "Wiki",
