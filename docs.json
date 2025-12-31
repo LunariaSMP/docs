@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Regelwerke",
+            "icon": "folders",
             "pages": [
               "index",
               "quickstart"
