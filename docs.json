@@ -9,7 +9,9 @@
   },
   "favicon": "/PINK_Logo.png",
   "navigation": {
-    "groups": [
+    "pages": [
+      "",
+      "spielen",
       {
         "group": "Regelwerke",
         "pages": [
