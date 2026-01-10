@@ -9,18 +9,12 @@
   },
   "favicon": "/PINK_Logo.png",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Wiki",
-        "groups": [
-          {
-            "group": "Regelwerke",
-            "icon": "folder",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          }
+        "group": "Regelwerke",
+        "pages": [
+          "minecraft-regelwerk",
+          "discord-regelwerk"
         ]
       }
     ]
