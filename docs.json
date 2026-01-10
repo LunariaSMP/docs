@@ -10,7 +10,7 @@
   "favicon": "/PINK_Logo.png",
   "navigation": {
     "pages": [
-      "",
+      "startseite",
       "spielen",
       {
         "group": "Regelwerke",
