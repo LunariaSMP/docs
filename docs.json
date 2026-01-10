@@ -16,6 +16,17 @@
           "minecraft-regelwerk",
           "discord-regelwerk"
         ]
+      },
+      {
+        "group": "Bewerben",
+        "pages": [
+          "bewerben",
+          "bewerben/supporter",
+          "bewerben/content",
+          "bewerben/builder",
+          "bewerben/entwickler",
+          "bewerben/creator"
+        ]
       }
     ]
   },
