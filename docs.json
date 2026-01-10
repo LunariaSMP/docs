@@ -32,10 +32,8 @@
       },
       {
         "group": "Rechtliches",
-        "icon": "folder",
         "pages": [
-          "impressum",
-          "datenschutz"
+          "rechtliches/impressum"
         ]
       }
     ]
