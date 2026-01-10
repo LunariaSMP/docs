@@ -29,6 +29,14 @@
           "bewerben/entwickler",
           "bewerben/creator"
         ]
+      },
+      {
+        "group": "Rechtliches",
+        "icon": "folder",
+        "pages": [
+          "impressum",
+          "datenschutz"
+        ]
       }
     ]
   },
