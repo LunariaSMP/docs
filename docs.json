@@ -81,7 +81,8 @@
     }
   },
   "background": {
-    "decoration": "gradient"
+    "decoration": "gradient",
+    "image": "/images/output-onlinepngtools.png"
   },
   "appearance": {
     "default": "dark"
