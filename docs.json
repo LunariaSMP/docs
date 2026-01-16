@@ -41,7 +41,20 @@
   },
   "logo": "/PINK_Logo.png",
   "navbar": {
-    "links": [],
+    "links": [
+      {
+        "label": "Discord",
+        "href": "https://discord.lunariasmp.de/"
+      },
+      {
+        "label": "Homepage",
+        "href": "https://lunariasmp.de/"
+      },
+      {
+        "label": "Shop",
+        "href": "https://shop.lunariasmp.de"
+      }
+    ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
