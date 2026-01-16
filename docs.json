@@ -88,8 +88,7 @@
     "default": "dark"
   },
   "thumbnails": {
-    "appearance": "dark",
-    "background": "/PINK_Logo.png"
+    "appearance": "dark"
   },
   "styling": {
     "codeblocks": "dark",
